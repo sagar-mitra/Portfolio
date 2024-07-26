@@ -294,7 +294,7 @@ main{
 }
 
 .html-innerbox {
-  width: 85%;
+  width: 90%;
   height: 30px;
   padding: 3px;
   margin: 0 3px;
@@ -318,7 +318,7 @@ main{
 }
 
 .css-innerbox {
-  width: 80%;
+  width: 85%;
   height: 30px;
   padding: 3px;
   margin: 0 3px;
@@ -342,7 +342,7 @@ main{
 }
 
 .js-innerbox {
-  width: 70%;
+  width: 80%;
   height: 30px;
   padding: 3px;
   margin: 0 3px;
